@@ -39,7 +39,7 @@ need this for testing purposes (see next section).
 ### Unit Testing
 
 Provide unit tests for this structure. I won't prescribe a fixed number of
-tests, though they exercise the system thoroughly (try to break it!).
+tests, though they should exercise the structure thoroughly. 
 
 ### Quality of Life Extensions (Choose One) 
 
